@@ -9,6 +9,7 @@ Thanks to this website(https://www.andrew.cmu.edu/user/feenstra/wavetrans/)
 gfortran Wavetran.f90 -o Wavetran
 
 * ifort
+
 ifort Wavetrans.f90 -assume byterecl -o Wavetran 
 
 ## Feature 
