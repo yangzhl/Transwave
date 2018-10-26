@@ -6,11 +6,11 @@ Thanks to this website(https://www.andrew.cmu.edu/user/feenstra/wavetrans/)
 ## Compile
 * gfotran 
 
-gfortran Wavetran.f90 -o Wavetran
+gfortran Transwave.f90 -o Transwave
 
 * ifort
 
-ifort Wavetrans.f90 -assume byterecl -o Wavetran 
+ifort Transwave.f90 -assume byterecl -o Transwave
 
 ## Feature 
 This program works with noncollinear and linear calculation of vasp
